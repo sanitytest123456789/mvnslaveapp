@@ -13,7 +13,6 @@ public class calapp {
     }
 
     public static void calculateValue(){
-
         System.out.println("New value to be calculated");
 
     }

@@ -8,6 +8,6 @@ public class muveapp {
         calapp x = new calapp("Hello",
                 "World");
 
-        System.out.println();
+        System.out.println(x.toString() + " Details here");
     }
 }
